@@ -1,0 +1,38 @@
+# https://matplotlib.org/3.1.0/tutorials/introductory/customizing.html
+
+# https://python4astronomers.github.io/plotting/advanced.html
+
+### Figure
+figure.figsize : 6,4
+# figure.facecolor : (0.1, 0.1, 0.1)
+
+### Axes
+axes.facecolor : (0.95, 0.95, 0.95)
+axes.linewidth : 0
+
+axes.grid : True
+# axes.labelcolor : white
+# axes.titlecolor : white
+# axes.titlelocation : left
+
+### Ticks
+xtick.bottom : False
+xtick.direction : in
+
+ytick.left : False
+ytick.direction : in
+
+### Grids
+grid.color:     white
+grid.linestyle: -
+grid.linewidth: 0.8
+grid.alpha:     1.0
+
+### Lines
+lines.linewidth: 3
+
+### Text
+font.sans-serif : Open Sans
+font.serif : Merriweather
+
+

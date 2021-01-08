@@ -1,0 +1,2006 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="144pt" version="1.1" viewBox="0 0 288 144" width="288pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2021-01-08T14:43:52.432545</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.3.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 144 
+L 288 144 
+L 288 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="line2d_1">
+   <path d="M 12 132 
+L 276 132 
+L 12 120 
+L 276 120 
+L 12 108 
+L 276 108 
+L 12 96 
+L 276 96 
+L 12 84 
+L 276 84 
+L 12 72 
+L 276 72 
+L 12 60 
+L 276 60 
+L 12 48 
+L 276 48 
+L 12 36 
+L 276 36 
+L 12 24 
+L 276 24 
+L 12 12 
+L 276 12 
+L 276 12 
+" style="fill:none;"/>
+   <defs>
+    <path d="M 0 0.25 
+C 0.066301 0.25 0.129895 0.223658 0.176777 0.176777 
+C 0.223658 0.129895 0.25 0.066301 0.25 0 
+C 0.25 -0.066301 0.223658 -0.129895 0.176777 -0.176777 
+C 0.129895 -0.223658 0.066301 -0.25 0 -0.25 
+C -0.066301 -0.25 -0.129895 -0.223658 -0.176777 -0.176777 
+C -0.223658 -0.129895 -0.25 -0.066301 -0.25 0 
+C -0.25 0.066301 -0.223658 0.129895 -0.176777 0.176777 
+C -0.129895 0.223658 -0.066301 0.25 0 0.25 
+z
+" id="mdf70b3425d" style="stroke:#cccccc;"/>
+   </defs>
+   <g>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="12" xlink:href="#mdf70b3425d" y="132"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="24" xlink:href="#mdf70b3425d" y="132"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="36" xlink:href="#mdf70b3425d" y="132"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="48" xlink:href="#mdf70b3425d" y="132"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="60" xlink:href="#mdf70b3425d" y="132"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="72" xlink:href="#mdf70b3425d" y="132"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="84" xlink:href="#mdf70b3425d" y="132"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="96" xlink:href="#mdf70b3425d" y="132"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="108" xlink:href="#mdf70b3425d" y="132"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="120" xlink:href="#mdf70b3425d" y="132"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="132" xlink:href="#mdf70b3425d" y="132"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="144" xlink:href="#mdf70b3425d" y="132"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="156" xlink:href="#mdf70b3425d" y="132"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="168" xlink:href="#mdf70b3425d" y="132"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="180" xlink:href="#mdf70b3425d" y="132"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="192" xlink:href="#mdf70b3425d" y="132"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="204" xlink:href="#mdf70b3425d" y="132"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="216" xlink:href="#mdf70b3425d" y="132"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="228" xlink:href="#mdf70b3425d" y="132"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="240" xlink:href="#mdf70b3425d" y="132"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="252" xlink:href="#mdf70b3425d" y="132"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="264" xlink:href="#mdf70b3425d" y="132"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="276" xlink:href="#mdf70b3425d" y="132"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="12" xlink:href="#mdf70b3425d" y="120"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="24" xlink:href="#mdf70b3425d" y="120"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="36" xlink:href="#mdf70b3425d" y="120"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="48" xlink:href="#mdf70b3425d" y="120"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="60" xlink:href="#mdf70b3425d" y="120"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="72" xlink:href="#mdf70b3425d" y="120"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="84" xlink:href="#mdf70b3425d" y="120"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="96" xlink:href="#mdf70b3425d" y="120"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="108" xlink:href="#mdf70b3425d" y="120"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="120" xlink:href="#mdf70b3425d" y="120"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="132" xlink:href="#mdf70b3425d" y="120"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="144" xlink:href="#mdf70b3425d" y="120"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="156" xlink:href="#mdf70b3425d" y="120"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="168" xlink:href="#mdf70b3425d" y="120"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="180" xlink:href="#mdf70b3425d" y="120"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="192" xlink:href="#mdf70b3425d" y="120"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="204" xlink:href="#mdf70b3425d" y="120"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="216" xlink:href="#mdf70b3425d" y="120"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="228" xlink:href="#mdf70b3425d" y="120"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="240" xlink:href="#mdf70b3425d" y="120"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="252" xlink:href="#mdf70b3425d" y="120"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="264" xlink:href="#mdf70b3425d" y="120"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="276" xlink:href="#mdf70b3425d" y="120"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="12" xlink:href="#mdf70b3425d" y="108"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="24" xlink:href="#mdf70b3425d" y="108"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="36" xlink:href="#mdf70b3425d" y="108"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="48" xlink:href="#mdf70b3425d" y="108"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="60" xlink:href="#mdf70b3425d" y="108"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="72" xlink:href="#mdf70b3425d" y="108"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="84" xlink:href="#mdf70b3425d" y="108"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="96" xlink:href="#mdf70b3425d" y="108"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="108" xlink:href="#mdf70b3425d" y="108"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="120" xlink:href="#mdf70b3425d" y="108"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="132" xlink:href="#mdf70b3425d" y="108"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="144" xlink:href="#mdf70b3425d" y="108"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="156" xlink:href="#mdf70b3425d" y="108"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="168" xlink:href="#mdf70b3425d" y="108"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="180" xlink:href="#mdf70b3425d" y="108"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="192" xlink:href="#mdf70b3425d" y="108"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="204" xlink:href="#mdf70b3425d" y="108"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="216" xlink:href="#mdf70b3425d" y="108"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="228" xlink:href="#mdf70b3425d" y="108"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="240" xlink:href="#mdf70b3425d" y="108"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="252" xlink:href="#mdf70b3425d" y="108"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="264" xlink:href="#mdf70b3425d" y="108"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="276" xlink:href="#mdf70b3425d" y="108"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="12" xlink:href="#mdf70b3425d" y="96"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="24" xlink:href="#mdf70b3425d" y="96"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="36" xlink:href="#mdf70b3425d" y="96"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="48" xlink:href="#mdf70b3425d" y="96"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="60" xlink:href="#mdf70b3425d" y="96"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="72" xlink:href="#mdf70b3425d" y="96"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="84" xlink:href="#mdf70b3425d" y="96"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="96" xlink:href="#mdf70b3425d" y="96"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="108" xlink:href="#mdf70b3425d" y="96"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="120" xlink:href="#mdf70b3425d" y="96"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="132" xlink:href="#mdf70b3425d" y="96"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="144" xlink:href="#mdf70b3425d" y="96"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="156" xlink:href="#mdf70b3425d" y="96"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="168" xlink:href="#mdf70b3425d" y="96"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="180" xlink:href="#mdf70b3425d" y="96"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="192" xlink:href="#mdf70b3425d" y="96"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="204" xlink:href="#mdf70b3425d" y="96"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="216" xlink:href="#mdf70b3425d" y="96"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="228" xlink:href="#mdf70b3425d" y="96"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="240" xlink:href="#mdf70b3425d" y="96"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="252" xlink:href="#mdf70b3425d" y="96"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="264" xlink:href="#mdf70b3425d" y="96"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="276" xlink:href="#mdf70b3425d" y="96"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="12" xlink:href="#mdf70b3425d" y="84"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="24" xlink:href="#mdf70b3425d" y="84"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="36" xlink:href="#mdf70b3425d" y="84"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="48" xlink:href="#mdf70b3425d" y="84"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="60" xlink:href="#mdf70b3425d" y="84"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="72" xlink:href="#mdf70b3425d" y="84"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="84" xlink:href="#mdf70b3425d" y="84"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="96" xlink:href="#mdf70b3425d" y="84"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="108" xlink:href="#mdf70b3425d" y="84"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="120" xlink:href="#mdf70b3425d" y="84"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="132" xlink:href="#mdf70b3425d" y="84"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="144" xlink:href="#mdf70b3425d" y="84"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="156" xlink:href="#mdf70b3425d" y="84"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="168" xlink:href="#mdf70b3425d" y="84"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="180" xlink:href="#mdf70b3425d" y="84"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="192" xlink:href="#mdf70b3425d" y="84"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="204" xlink:href="#mdf70b3425d" y="84"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="216" xlink:href="#mdf70b3425d" y="84"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="228" xlink:href="#mdf70b3425d" y="84"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="240" xlink:href="#mdf70b3425d" y="84"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="252" xlink:href="#mdf70b3425d" y="84"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="264" xlink:href="#mdf70b3425d" y="84"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="276" xlink:href="#mdf70b3425d" y="84"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="12" xlink:href="#mdf70b3425d" y="72"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="24" xlink:href="#mdf70b3425d" y="72"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="36" xlink:href="#mdf70b3425d" y="72"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="48" xlink:href="#mdf70b3425d" y="72"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="60" xlink:href="#mdf70b3425d" y="72"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="72" xlink:href="#mdf70b3425d" y="72"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="84" xlink:href="#mdf70b3425d" y="72"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="96" xlink:href="#mdf70b3425d" y="72"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="108" xlink:href="#mdf70b3425d" y="72"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="120" xlink:href="#mdf70b3425d" y="72"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="132" xlink:href="#mdf70b3425d" y="72"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="144" xlink:href="#mdf70b3425d" y="72"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="156" xlink:href="#mdf70b3425d" y="72"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="168" xlink:href="#mdf70b3425d" y="72"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="180" xlink:href="#mdf70b3425d" y="72"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="192" xlink:href="#mdf70b3425d" y="72"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="204" xlink:href="#mdf70b3425d" y="72"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="216" xlink:href="#mdf70b3425d" y="72"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="228" xlink:href="#mdf70b3425d" y="72"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="240" xlink:href="#mdf70b3425d" y="72"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="252" xlink:href="#mdf70b3425d" y="72"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="264" xlink:href="#mdf70b3425d" y="72"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="276" xlink:href="#mdf70b3425d" y="72"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="12" xlink:href="#mdf70b3425d" y="60"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="24" xlink:href="#mdf70b3425d" y="60"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="36" xlink:href="#mdf70b3425d" y="60"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="48" xlink:href="#mdf70b3425d" y="60"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="60" xlink:href="#mdf70b3425d" y="60"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="72" xlink:href="#mdf70b3425d" y="60"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="84" xlink:href="#mdf70b3425d" y="60"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="96" xlink:href="#mdf70b3425d" y="60"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="108" xlink:href="#mdf70b3425d" y="60"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="120" xlink:href="#mdf70b3425d" y="60"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="132" xlink:href="#mdf70b3425d" y="60"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="144" xlink:href="#mdf70b3425d" y="60"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="156" xlink:href="#mdf70b3425d" y="60"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="168" xlink:href="#mdf70b3425d" y="60"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="180" xlink:href="#mdf70b3425d" y="60"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="192" xlink:href="#mdf70b3425d" y="60"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="204" xlink:href="#mdf70b3425d" y="60"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="216" xlink:href="#mdf70b3425d" y="60"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="228" xlink:href="#mdf70b3425d" y="60"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="240" xlink:href="#mdf70b3425d" y="60"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="252" xlink:href="#mdf70b3425d" y="60"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="264" xlink:href="#mdf70b3425d" y="60"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="276" xlink:href="#mdf70b3425d" y="60"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="12" xlink:href="#mdf70b3425d" y="48"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="24" xlink:href="#mdf70b3425d" y="48"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="36" xlink:href="#mdf70b3425d" y="48"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="48" xlink:href="#mdf70b3425d" y="48"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="60" xlink:href="#mdf70b3425d" y="48"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="72" xlink:href="#mdf70b3425d" y="48"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="84" xlink:href="#mdf70b3425d" y="48"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="96" xlink:href="#mdf70b3425d" y="48"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="108" xlink:href="#mdf70b3425d" y="48"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="120" xlink:href="#mdf70b3425d" y="48"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="132" xlink:href="#mdf70b3425d" y="48"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="144" xlink:href="#mdf70b3425d" y="48"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="156" xlink:href="#mdf70b3425d" y="48"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="168" xlink:href="#mdf70b3425d" y="48"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="180" xlink:href="#mdf70b3425d" y="48"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="192" xlink:href="#mdf70b3425d" y="48"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="204" xlink:href="#mdf70b3425d" y="48"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="216" xlink:href="#mdf70b3425d" y="48"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="228" xlink:href="#mdf70b3425d" y="48"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="240" xlink:href="#mdf70b3425d" y="48"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="252" xlink:href="#mdf70b3425d" y="48"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="264" xlink:href="#mdf70b3425d" y="48"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="276" xlink:href="#mdf70b3425d" y="48"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="12" xlink:href="#mdf70b3425d" y="36"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="24" xlink:href="#mdf70b3425d" y="36"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="36" xlink:href="#mdf70b3425d" y="36"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="48" xlink:href="#mdf70b3425d" y="36"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="60" xlink:href="#mdf70b3425d" y="36"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="72" xlink:href="#mdf70b3425d" y="36"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="84" xlink:href="#mdf70b3425d" y="36"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="96" xlink:href="#mdf70b3425d" y="36"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="108" xlink:href="#mdf70b3425d" y="36"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="120" xlink:href="#mdf70b3425d" y="36"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="132" xlink:href="#mdf70b3425d" y="36"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="144" xlink:href="#mdf70b3425d" y="36"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="156" xlink:href="#mdf70b3425d" y="36"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="168" xlink:href="#mdf70b3425d" y="36"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="180" xlink:href="#mdf70b3425d" y="36"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="192" xlink:href="#mdf70b3425d" y="36"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="204" xlink:href="#mdf70b3425d" y="36"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="216" xlink:href="#mdf70b3425d" y="36"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="228" xlink:href="#mdf70b3425d" y="36"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="240" xlink:href="#mdf70b3425d" y="36"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="252" xlink:href="#mdf70b3425d" y="36"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="264" xlink:href="#mdf70b3425d" y="36"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="276" xlink:href="#mdf70b3425d" y="36"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="12" xlink:href="#mdf70b3425d" y="24"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="24" xlink:href="#mdf70b3425d" y="24"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="36" xlink:href="#mdf70b3425d" y="24"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="48" xlink:href="#mdf70b3425d" y="24"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="60" xlink:href="#mdf70b3425d" y="24"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="72" xlink:href="#mdf70b3425d" y="24"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="84" xlink:href="#mdf70b3425d" y="24"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="96" xlink:href="#mdf70b3425d" y="24"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="108" xlink:href="#mdf70b3425d" y="24"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="120" xlink:href="#mdf70b3425d" y="24"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="132" xlink:href="#mdf70b3425d" y="24"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="144" xlink:href="#mdf70b3425d" y="24"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="156" xlink:href="#mdf70b3425d" y="24"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="168" xlink:href="#mdf70b3425d" y="24"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="180" xlink:href="#mdf70b3425d" y="24"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="192" xlink:href="#mdf70b3425d" y="24"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="204" xlink:href="#mdf70b3425d" y="24"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="216" xlink:href="#mdf70b3425d" y="24"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="228" xlink:href="#mdf70b3425d" y="24"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="240" xlink:href="#mdf70b3425d" y="24"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="252" xlink:href="#mdf70b3425d" y="24"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="264" xlink:href="#mdf70b3425d" y="24"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="276" xlink:href="#mdf70b3425d" y="24"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="12" xlink:href="#mdf70b3425d" y="12"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="24" xlink:href="#mdf70b3425d" y="12"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="36" xlink:href="#mdf70b3425d" y="12"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="48" xlink:href="#mdf70b3425d" y="12"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="60" xlink:href="#mdf70b3425d" y="12"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="72" xlink:href="#mdf70b3425d" y="12"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="84" xlink:href="#mdf70b3425d" y="12"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="96" xlink:href="#mdf70b3425d" y="12"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="108" xlink:href="#mdf70b3425d" y="12"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="120" xlink:href="#mdf70b3425d" y="12"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="132" xlink:href="#mdf70b3425d" y="12"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="144" xlink:href="#mdf70b3425d" y="12"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="156" xlink:href="#mdf70b3425d" y="12"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="168" xlink:href="#mdf70b3425d" y="12"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="180" xlink:href="#mdf70b3425d" y="12"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="192" xlink:href="#mdf70b3425d" y="12"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="204" xlink:href="#mdf70b3425d" y="12"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="216" xlink:href="#mdf70b3425d" y="12"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="228" xlink:href="#mdf70b3425d" y="12"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="240" xlink:href="#mdf70b3425d" y="12"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="252" xlink:href="#mdf70b3425d" y="12"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="264" xlink:href="#mdf70b3425d" y="12"/>
+    <use style="fill:#cccccc;stroke:#cccccc;" x="276" xlink:href="#mdf70b3425d" y="12"/>
+   </g>
+  </g>
+  <g id="line2d_2">
+   <path d="M 24 48 
+L 264 48 
+" style="fill:none;stroke:#cccccc;stroke-linecap:square;stroke-width:0.5;"/>
+  </g>
+  <g id="line2d_3">
+   <path d="M 24 72 
+L 264 72 
+" style="fill:none;stroke:#cccccc;stroke-linecap:square;stroke-width:0.5;"/>
+  </g>
+  <g id="text_1">
+   <!-- Large -->
+   <g transform="translate(24 48)scale(0.2 -0.2)">
+    <defs>
+     <path d="M 13.09375 68.09375 
+L 5 69.296875 
+L 5 74.296875 
+L 33.703125 74.296875 
+L 33.703125 69.296875 
+L 23.796875 68.09375 
+L 23.796875 5.90625 
+L 49.59375 6.796875 
+L 55.5 23.59375 
+L 61.59375 22.703125 
+L 58.09375 0 
+L 4.796875 0 
+L 4.796875 4.90625 
+L 13.09375 5.90625 
+z
+" id="Merriweather-Regular-76"/>
+     <path d="M 4.5 15 
+Q 4.5 24.40625 13.890625 28.84375 
+Q 23.296875 33.296875 37.703125 33.59375 
+L 37.703125 36.40625 
+Q 37.703125 41.09375 36.703125 43.796875 
+Q 35.703125 46.5 33.25 47.75 
+Q 30.796875 49 26.296875 49 
+Q 21.203125 49 17.140625 47.546875 
+Q 13.09375 46.09375 9.09375 44 
+L 6.59375 49.203125 
+Q 7.90625 50.296875 11.40625 52.09375 
+Q 14.90625 53.90625 19.5 55.296875 
+Q 24.09375 56.703125 28.703125 56.703125 
+Q 35.796875 56.703125 39.9375 54.75 
+Q 44.09375 52.796875 45.890625 48.5 
+Q 47.703125 44.203125 47.703125 37 
+L 47.703125 4.90625 
+L 53.59375 4.90625 
+L 53.59375 0.5 
+Q 51.59375 0 48.546875 -0.5 
+Q 45.5 -1 43.203125 -1 
+Q 40.40625 -1 39.40625 -0.140625 
+Q 38.40625 0.703125 38.40625 3.59375 
+L 38.40625 6.90625 
+Q 35.40625 3.90625 31.046875 1.40625 
+Q 26.703125 -1.09375 21.203125 -1.09375 
+Q 14 -1.09375 9.25 3.046875 
+Q 4.5 7.203125 4.5 15 
+z
+M 25.5 5.703125 
+Q 28.09375 5.703125 31.5 7.296875 
+Q 34.90625 8.90625 37.703125 11.09375 
+L 37.703125 28.296875 
+Q 26.796875 28.296875 21.25 24.9375 
+Q 15.703125 21.59375 15.703125 16.203125 
+Q 15.703125 10.796875 18.34375 8.25 
+Q 21 5.703125 25.5 5.703125 
+z
+" id="Merriweather-Regular-97"/>
+     <path d="M 4.703125 4.90625 
+L 12.203125 5.5 
+L 12.203125 47.796875 
+L 5 49.59375 
+L 5 55 
+L 18.796875 56.796875 
+L 19 56.796875 
+L 21.203125 55 
+L 21.203125 53.203125 
+L 20.90625 45.40625 
+L 21.203125 45.40625 
+Q 22.203125 47.09375 24.796875 49.796875 
+Q 27.40625 52.5 31.5 54.75 
+Q 35.59375 57 40.40625 57 
+Q 42.40625 57 43.703125 56.5 
+L 43.703125 45.296875 
+Q 43 45.796875 41.453125 46.25 
+Q 39.90625 46.703125 38 46.703125 
+Q 29.703125 46.703125 22.59375 41.59375 
+L 22.59375 5.59375 
+L 35.296875 4.796875 
+L 35.296875 0 
+L 4.703125 0 
+z
+" id="Merriweather-Regular-114"/>
+     <path d="M 28.40625 -27 
+Q 15.59375 -27 9.84375 -22.953125 
+Q 4.09375 -18.90625 4.09375 -11.796875 
+Q 4.09375 -7.40625 6.84375 -3.703125 
+Q 9.59375 0 13.40625 1.90625 
+Q 8.796875 4.5 8.796875 10.296875 
+Q 8.796875 13.90625 10.890625 17.09375 
+Q 13 20.296875 16.40625 22 
+Q 11.40625 24.203125 8.75 28.296875 
+Q 6.09375 32.40625 6.09375 38 
+Q 6.09375 43.796875 9.34375 48.09375 
+Q 12.59375 52.40625 17.9375 54.703125 
+Q 23.296875 57 29.296875 57 
+Q 39.40625 57 45.09375 52.796875 
+Q 46.59375 54.296875 49.6875 55.6875 
+Q 52.796875 57.09375 56.296875 57.09375 
+L 59.703125 57.09375 
+L 59.703125 48.296875 
+L 48.703125 48.296875 
+Q 51.09375 44.59375 51.09375 39.703125 
+Q 51.09375 33.796875 48.140625 29.25 
+Q 45.203125 24.703125 39.953125 22.203125 
+Q 34.703125 19.703125 28.09375 19.703125 
+Q 23.796875 19.703125 20.40625 20.59375 
+Q 19 19.203125 18.09375 17.5 
+Q 17.203125 15.796875 17.203125 14.203125 
+Q 17.203125 10.59375 19.59375 9.25 
+Q 22 7.90625 28.203125 7.90625 
+L 39.5 7.90625 
+Q 49.203125 7.90625 53.890625 4.203125 
+Q 58.59375 0.5 58.59375 -6.296875 
+Q 58.59375 -12 54.5 -16.75 
+Q 50.40625 -21.5 43.453125 -24.25 
+Q 36.5 -27 28.40625 -27 
+z
+M 29.09375 25.203125 
+Q 40.5 25.203125 40.5 38.703125 
+Q 40.5 45.40625 37.546875 48.546875 
+Q 34.59375 51.703125 28.703125 51.703125 
+Q 23.203125 51.703125 20 48.640625 
+Q 16.796875 45.59375 16.796875 38.90625 
+Q 16.796875 32.59375 19.84375 28.890625 
+Q 22.90625 25.203125 29.09375 25.203125 
+z
+M 29.296875 -21.203125 
+Q 34.203125 -21.203125 38.546875 -19.75 
+Q 42.90625 -18.296875 45.59375 -15.4375 
+Q 48.296875 -12.59375 48.296875 -8.796875 
+Q 48.296875 -4.296875 45.890625 -2.25 
+Q 43.5 -0.203125 36.59375 -0.203125 
+L 24.796875 -0.203125 
+Q 20.796875 -0.203125 18.5 0.296875 
+Q 14.40625 -4.203125 14.40625 -9.796875 
+Q 14.40625 -15.40625 17.796875 -18.296875 
+Q 21.203125 -21.203125 29.296875 -21.203125 
+z
+" id="Merriweather-Regular-103"/>
+     <path d="M 29.09375 -1.09375 
+Q 17 -1.09375 10.640625 6.796875 
+Q 4.296875 14.703125 4.296875 27.90625 
+Q 4.296875 36.59375 7.59375 43.1875 
+Q 10.90625 49.796875 16.84375 53.390625 
+Q 22.796875 57 30.40625 57 
+Q 39.703125 57 44.84375 51.84375 
+Q 50 46.703125 50.296875 37.09375 
+Q 50.296875 31 49.59375 27.796875 
+L 15.203125 27.796875 
+Q 15.40625 17.90625 19.796875 11.84375 
+Q 24.203125 5.796875 32.296875 5.796875 
+Q 36.296875 5.796875 40.640625 7.25 
+Q 45 8.703125 47.40625 10.703125 
+L 49.296875 6.296875 
+Q 46.40625 3.296875 40.703125 1.09375 
+Q 35 -1.09375 29.09375 -1.09375 
+z
+M 39.296875 33.09375 
+Q 39.59375 35.203125 39.59375 37.40625 
+Q 39.5 43.90625 36.84375 47.65625 
+Q 34.203125 51.40625 28.5 51.40625 
+Q 22.703125 51.40625 19.25 47.203125 
+Q 15.796875 43 15.296875 33.09375 
+z
+" id="Merriweather-Regular-101"/>
+    </defs>
+    <use xlink:href="#Merriweather-Regular-76"/>
+    <use x="63.399994" xlink:href="#Merriweather-Regular-97"/>
+    <use x="119.499985" xlink:href="#Merriweather-Regular-114"/>
+    <use x="165.299973" xlink:href="#Merriweather-Regular-103"/>
+    <use x="225.999969" xlink:href="#Merriweather-Regular-101"/>
+   </g>
+   <!-- fonts -->
+   <g transform="translate(24 72.559375)scale(0.2 -0.2)">
+    <defs>
+     <path d="M 12.5 48.90625 
+L 3.09375 48.90625 
+L 3.09375 53.5 
+L 12.5 55.40625 
+L 12.5 60.09375 
+Q 12.5 66.296875 15.75 71.5 
+Q 19 76.703125 24.25 79.75 
+Q 29.5 82.796875 35.40625 82.796875 
+Q 38.796875 82.796875 41.296875 81.90625 
+L 41.296875 71.90625 
+Q 40.40625 72.703125 37.75 73.453125 
+Q 35.09375 74.203125 31.90625 74.203125 
+Q 27.203125 74.203125 25.046875 71.75 
+Q 22.90625 69.296875 22.90625 63.296875 
+L 22.90625 55.40625 
+L 36.703125 55.40625 
+L 36.703125 48.90625 
+L 22.90625 48.90625 
+L 22.90625 5.703125 
+L 34 4.90625 
+L 34 0 
+L 4 0 
+L 4 4.90625 
+L 12.5 5.796875 
+z
+" id="Merriweather-Regular-102"/>
+     <path d="M 4.5 27.90625 
+Q 4.5 36.90625 8.203125 43.5 
+Q 11.90625 50.09375 17.953125 53.546875 
+Q 24 57 30.90625 57 
+Q 43.5 57 49.84375 49 
+Q 56.203125 41 56.203125 28 
+Q 56.203125 18.90625 52.5 12.296875 
+Q 48.796875 5.703125 42.75 2.296875 
+Q 36.703125 -1.09375 29.796875 -1.09375 
+Q 17.203125 -1.09375 10.84375 6.90625 
+Q 4.5 14.90625 4.5 27.90625 
+z
+M 30.40625 4.59375 
+Q 37.296875 4.59375 41 10.296875 
+Q 44.703125 16 44.703125 27.203125 
+Q 44.703125 38.296875 41.296875 44.796875 
+Q 37.90625 51.296875 30.40625 51.296875 
+Q 23.5 51.296875 19.75 45.59375 
+Q 16 39.90625 16 28.703125 
+Q 16 17.59375 19.5 11.09375 
+Q 23 4.59375 30.40625 4.59375 
+z
+" id="Merriweather-Regular-111"/>
+     <path d="M 10.5 47.796875 
+L 3.296875 49.59375 
+L 3.296875 55 
+L 17.59375 56.796875 
+L 17.90625 56.796875 
+L 20 55 
+L 20 50.796875 
+L 19.90625 48.40625 
+Q 23.5 51.59375 29.390625 54.1875 
+Q 35.296875 56.796875 40.703125 56.796875 
+Q 47 56.796875 50.453125 54.390625 
+Q 53.90625 52 55.296875 47.046875 
+Q 56.703125 42.09375 56.703125 33.703125 
+L 56.703125 5.703125 
+L 63.703125 5 
+L 63.703125 0 
+L 40 0 
+L 40 4.90625 
+L 46.203125 5.703125 
+L 46.203125 33.796875 
+Q 46.203125 39.703125 45.390625 43.046875 
+Q 44.59375 46.40625 42.390625 48.046875 
+Q 40.203125 49.703125 36 49.703125 
+Q 32.40625 49.703125 28.296875 47.890625 
+Q 24.203125 46.09375 21 43.703125 
+L 21 5.796875 
+L 27.796875 4.90625 
+L 27.796875 0 
+L 4.203125 0 
+L 4.203125 4.90625 
+L 10.5 5.796875 
+z
+" id="Merriweather-Regular-110"/>
+     <path d="M 21.59375 -1 
+Q 15.90625 -1 13.09375 1.59375 
+Q 10.296875 4.203125 10.296875 10.5 
+L 10.296875 48.90625 
+L 3.09375 48.90625 
+L 3.09375 53.40625 
+Q 3.59375 53.5 5.890625 54.09375 
+Q 8.203125 54.703125 9 55.203125 
+Q 10.59375 56.09375 11.5 58.796875 
+Q 12.296875 60.703125 13.390625 64.890625 
+Q 14.5 69.09375 14.703125 69.90625 
+L 20.59375 69.90625 
+L 20.796875 55.5 
+L 37.5 55.5 
+L 37.5 48.90625 
+L 20.796875 48.90625 
+L 20.796875 18.203125 
+Q 20.796875 12.5 21.140625 10.203125 
+Q 21.5 7.90625 22.640625 7.203125 
+Q 23.796875 6.5 26.59375 6.5 
+Q 29.296875 6.5 32.546875 7.203125 
+Q 35.796875 7.90625 37.59375 8.703125 
+L 39.09375 4.203125 
+Q 36.703125 2.40625 31.34375 0.703125 
+Q 26 -1 21.59375 -1 
+z
+" id="Merriweather-Regular-116"/>
+     <path d="M 13.796875 8 
+Q 14.796875 6.5 18.046875 5.296875 
+Q 21.296875 4.09375 24.90625 4.09375 
+Q 30.59375 4.09375 33.296875 6.296875 
+Q 36 8.5 36 12.40625 
+Q 36 15.09375 34.296875 17.09375 
+Q 32.59375 19.09375 29.546875 20.640625 
+Q 26.5 22.203125 20.796875 24.40625 
+Q 13.09375 27.296875 9.546875 31.34375 
+Q 6 35.40625 6 42 
+Q 6 46.40625 8.640625 49.703125 
+Q 11.296875 53 15.9375 54.84375 
+Q 20.59375 56.703125 26.296875 56.703125 
+Q 30.90625 56.703125 34.34375 56 
+Q 37.796875 55.296875 39.890625 54.59375 
+Q 42 53.90625 42.703125 53.703125 
+L 42.703125 41.296875 
+L 36.59375 41.296875 
+L 34.59375 48.703125 
+Q 34 49.90625 31.390625 50.75 
+Q 28.796875 51.59375 25.59375 51.59375 
+Q 21.09375 51.59375 18.34375 49.59375 
+Q 15.59375 47.59375 15.59375 44.203125 
+Q 15.59375 41.203125 17.046875 39.25 
+Q 18.5 37.296875 20.703125 36.09375 
+Q 22.90625 34.90625 26.703125 33.296875 
+L 28.703125 32.5 
+Q 34.296875 30.296875 37.796875 28.296875 
+Q 41.296875 26.296875 43.640625 23.046875 
+Q 46 19.796875 46 15.09375 
+Q 46 7.703125 40.25 3.296875 
+Q 34.5 -1.09375 24.5 -1.09375 
+Q 19.59375 -1.09375 14.25 0.25 
+Q 8.90625 1.59375 5.5 3 
+L 5.5 15.796875 
+L 12 15.796875 
+z
+" id="Merriweather-Regular-115"/>
+    </defs>
+    <use xlink:href="#Merriweather-Regular-102"/>
+    <use x="39.999985" xlink:href="#Merriweather-Regular-111"/>
+    <use x="100.799973" xlink:href="#Merriweather-Regular-110"/>
+    <use x="167.199966" xlink:href="#Merriweather-Regular-116"/>
+    <use x="207.899963" xlink:href="#Merriweather-Regular-115"/>
+   </g>
+  </g>
+  <g id="text_2">
+   <!-- can be -->
+   <g transform="translate(108 48)scale(0.1 -0.1)">
+    <defs>
+     <path d="M 3.296875 27.40625 
+Q 3.296875 35.703125 6.546875 42.390625 
+Q 9.796875 49.09375 16.140625 53.046875 
+Q 22.5 57 31.40625 57 
+Q 35.703125 57 38.796875 56.203125 
+Q 41.90625 55.40625 46.203125 54 
+L 45.796875 38.59375 
+L 39.296875 38.59375 
+L 37.09375 48.796875 
+Q 36.5 51.59375 29.5 51.59375 
+Q 22.5 51.59375 18.453125 45.9375 
+Q 14.40625 40.296875 14.40625 29.90625 
+Q 14.40625 18.09375 18.953125 11.9375 
+Q 23.5 5.796875 30.796875 5.796875 
+Q 35 5.796875 38.75 7.09375 
+Q 42.5 8.40625 45.203125 10.203125 
+L 47.09375 6.203125 
+Q 44.40625 3.40625 39.15625 1.15625 
+Q 33.90625 -1.09375 28.5 -1.09375 
+Q 20.296875 -1.09375 14.640625 2.59375 
+Q 9 6.296875 6.140625 12.75 
+Q 3.296875 19.203125 3.296875 27.40625 
+z
+" id="Merriweather-Regular-99"/>
+     <path id="Merriweather-Regular-32"/>
+     <path d="M -0.203125 80 
+L 15.796875 81.90625 
+L 16 81.90625 
+L 18.296875 80.40625 
+L 18.296875 50.296875 
+Q 21.296875 53.203125 25.4375 55.09375 
+Q 29.59375 57 34.703125 57 
+Q 40.703125 57 45.640625 54.09375 
+Q 50.59375 51.203125 53.546875 45.09375 
+Q 56.5 39 56.5 29.703125 
+Q 56.5 21.09375 52.953125 14.09375 
+Q 49.40625 7.09375 42.796875 3 
+Q 36.203125 -1.09375 27.5 -1.09375 
+Q 20.59375 -1.09375 14.890625 0.25 
+Q 9.203125 1.59375 8 2.703125 
+L 8 74.703125 
+L -0.203125 75.796875 
+z
+M 30.59375 49.90625 
+Q 26.796875 49.90625 23.546875 48.15625 
+Q 20.296875 46.40625 18.296875 44.203125 
+L 18.296875 7.40625 
+Q 18.90625 6 21.75 5.140625 
+Q 24.59375 4.296875 28.203125 4.296875 
+Q 35.90625 4.296875 40.59375 10.5 
+Q 45.296875 16.703125 45.296875 28.59375 
+Q 45.296875 39.296875 41.1875 44.59375 
+Q 37.09375 49.90625 30.59375 49.90625 
+z
+" id="Merriweather-Regular-98"/>
+    </defs>
+    <use xlink:href="#Merriweather-Regular-99"/>
+    <use x="51.299988" xlink:href="#Merriweather-Regular-97"/>
+    <use x="107.399979" xlink:href="#Merriweather-Regular-110"/>
+    <use x="173.799973" xlink:href="#Merriweather-Regular-32"/>
+    <use x="197.499969" xlink:href="#Merriweather-Regular-98"/>
+    <use x="258.199966" xlink:href="#Merriweather-Regular-101"/>
+   </g>
+   <!-- perfectly -->
+   <g transform="translate(108 59.929688)scale(0.1 -0.1)">
+    <defs>
+     <path d="M 58.59375 29.703125 
+Q 58.59375 21.203125 55.09375 14.140625 
+Q 51.59375 7.09375 45.09375 3 
+Q 38.59375 -1.09375 29.90625 -1.09375 
+Q 27.5 -1.09375 24.703125 -0.6875 
+Q 21.90625 -0.296875 20.203125 0.296875 
+L 20.5 -8.09375 
+L 20.5 -18.203125 
+L 30.90625 -19.296875 
+L 30.90625 -24.203125 
+L 3 -24.203125 
+L 3 -19.296875 
+L 10.203125 -18.203125 
+L 10.203125 47.796875 
+L 2.90625 49.59375 
+L 2.90625 55 
+L 17.09375 56.796875 
+L 17.296875 56.796875 
+L 19.40625 55 
+L 19.40625 49.09375 
+Q 22.40625 52.40625 26.84375 54.703125 
+Q 31.296875 57 36.796875 57 
+Q 42.703125 57 47.640625 54.09375 
+Q 52.59375 51.203125 55.59375 45.09375 
+Q 58.59375 39 58.59375 29.703125 
+z
+M 32.703125 50 
+Q 28.90625 50 25.59375 48.390625 
+Q 22.296875 46.796875 20.5 44.90625 
+L 20.5 7.203125 
+Q 21.203125 6 24.046875 5.046875 
+Q 26.90625 4.09375 30.296875 4.09375 
+Q 38 4.09375 42.75 10.1875 
+Q 47.5 16.296875 47.5 28.59375 
+Q 47.5 39.40625 43.34375 44.703125 
+Q 39.203125 50 32.703125 50 
+z
+" id="Merriweather-Regular-112"/>
+     <path d="M 11.796875 74.59375 
+L 3.703125 75.703125 
+L 3.703125 80 
+L 19.796875 81.90625 
+L 20 81.90625 
+L 22.203125 80.40625 
+L 22.203125 5.703125 
+L 30.703125 4.90625 
+L 30.703125 0 
+L 3.703125 0 
+L 3.703125 4.90625 
+L 11.796875 5.796875 
+z
+" id="Merriweather-Regular-108"/>
+     <path d="M 12.59375 -24.90625 
+Q 10.90625 -24.90625 9.25 -24.703125 
+Q 7.59375 -24.5 6.90625 -24.09375 
+L 6.90625 -15.40625 
+Q 7.5 -15.796875 9.25 -16 
+Q 11 -16.203125 12.59375 -16.203125 
+Q 17.40625 -16.203125 21.046875 -12.84375 
+Q 24.703125 -9.5 28.09375 0 
+L 23.296875 0 
+L 4.296875 49.5 
+L -0.296875 50.796875 
+L -0.296875 55.5 
+L 23.796875 55.5 
+L 23.796875 50.796875 
+L 16.09375 49.59375 
+L 25.90625 20.09375 
+L 30.5 5.5 
+L 34.796875 20.203125 
+L 43.703125 49.59375 
+L 37 50.796875 
+L 37 55.5 
+L 57.09375 55.5 
+L 57.09375 50.796875 
+L 52.09375 49.59375 
+Q 37.40625 4.59375 34.796875 -1.5 
+Q 31.40625 -10.09375 28.59375 -14.9375 
+Q 25.796875 -19.796875 22 -22.34375 
+Q 18.203125 -24.90625 12.59375 -24.90625 
+z
+" id="Merriweather-Regular-121"/>
+    </defs>
+    <use xlink:href="#Merriweather-Regular-112"/>
+    <use x="62.799988" xlink:href="#Merriweather-Regular-101"/>
+    <use x="117.199982" xlink:href="#Merriweather-Regular-114"/>
+    <use x="162.999969" xlink:href="#Merriweather-Regular-102"/>
+    <use x="202.999954" xlink:href="#Merriweather-Regular-101"/>
+    <use x="257.399948" xlink:href="#Merriweather-Regular-99"/>
+    <use x="308.699936" xlink:href="#Merriweather-Regular-116"/>
+    <use x="349.399933" xlink:href="#Merriweather-Regular-108"/>
+    <use x="382.699921" xlink:href="#Merriweather-Regular-121"/>
+   </g>
+   <!-- aligned with -->
+   <g transform="translate(108 71.720313)scale(0.1 -0.1)">
+    <defs>
+     <path d="M 16.296875 65.5 
+Q 13.09375 65.5 11.5 67.296875 
+Q 9.90625 69.09375 9.90625 71.90625 
+Q 9.90625 75.09375 11.84375 77.1875 
+Q 13.796875 79.296875 17.203125 79.296875 
+Q 20.59375 79.296875 22.1875 77.5 
+Q 23.796875 75.703125 23.796875 72.90625 
+Q 23.796875 69.5 21.84375 67.5 
+Q 19.90625 65.5 16.40625 65.5 
+L 16.296875 65.5 
+z
+M 12.296875 47.796875 
+L 4.703125 49.59375 
+L 4.703125 54.90625 
+L 20.203125 56.796875 
+L 20.40625 56.796875 
+L 22.703125 55 
+L 22.703125 5.703125 
+L 30.703125 4.90625 
+L 30.703125 0 
+L 4.203125 0 
+L 4.203125 4.90625 
+L 12.296875 5.796875 
+z
+" id="Merriweather-Regular-105"/>
+     <path d="M 26.09375 -1.09375 
+Q 20.09375 -1.09375 15.09375 1.90625 
+Q 10.09375 4.90625 7.140625 11.09375 
+Q 4.203125 17.296875 4.203125 26.40625 
+Q 4.203125 34.90625 7.703125 41.90625 
+Q 11.203125 48.90625 17.75 52.953125 
+Q 24.296875 57 33.203125 57 
+Q 38.296875 57 42.5 55.90625 
+L 42.5 74.59375 
+L 32.296875 75.796875 
+L 32.296875 80.09375 
+L 50.296875 81.90625 
+L 50.59375 81.90625 
+L 52.796875 80.296875 
+L 52.796875 5.09375 
+L 58.59375 5.09375 
+L 58.59375 0.5 
+Q 55.40625 -0.203125 53.046875 -0.59375 
+Q 50.703125 -1 48.09375 -1 
+Q 45.5 -1 44.390625 -0.09375 
+Q 43.296875 0.796875 43.296875 3.703125 
+L 43.296875 6.90625 
+Q 40.5 3.5 35.953125 1.203125 
+Q 31.40625 -1.09375 26.09375 -1.09375 
+z
+M 30.09375 6 
+Q 34 6 37.390625 7.75 
+Q 40.796875 9.5 42.5 11.796875 
+L 42.5 48.40625 
+Q 41.703125 49.59375 38.75 50.546875 
+Q 35.796875 51.5 32.5 51.5 
+Q 24.703125 51.5 20.046875 45.546875 
+Q 15.40625 39.59375 15.40625 27.203125 
+Q 15.40625 16.40625 19.5 11.203125 
+Q 23.59375 6 30.09375 6 
+z
+" id="Merriweather-Regular-100"/>
+     <path d="M -0.703125 55.5 
+L 22.59375 55.5 
+L 22.59375 50.796875 
+L 15 49.59375 
+L 23.296875 20.203125 
+L 26.203125 7.5 
+L 29.09375 20.296875 
+L 38.703125 55.5 
+L 48.5 55.5 
+L 58.40625 20.296875 
+L 61.296875 7.40625 
+L 64.5 20.203125 
+L 72.59375 49.5 
+L 65 50.796875 
+L 65 55.5 
+L 85.296875 55.5 
+L 85.296875 50.796875 
+L 80 49.5 
+L 64.5 -0.796875 
+L 55.09375 -0.796875 
+L 44.5 34.5 
+L 41.90625 46.90625 
+L 39.796875 34.5 
+L 29.703125 -0.796875 
+L 20.40625 -0.796875 
+L 4.40625 49.59375 
+L -0.703125 50.796875 
+z
+" id="Merriweather-Regular-119"/>
+     <path d="M 9.90625 74.59375 
+L 1.5 75.703125 
+L 1.5 80 
+L 17.796875 81.90625 
+L 18 81.90625 
+L 20.203125 80.40625 
+L 20.203125 57.203125 
+L 19.796875 48.703125 
+Q 23 51.59375 28.59375 54.1875 
+Q 34.203125 56.796875 39.90625 56.796875 
+Q 46.203125 56.796875 49.703125 54.390625 
+Q 53.203125 52 54.59375 47.046875 
+Q 56 42.09375 56 33.703125 
+L 56 5.796875 
+L 63 4.90625 
+L 63 0 
+L 39.09375 0 
+L 39.09375 4.90625 
+L 45.59375 5.796875 
+L 45.59375 33.796875 
+Q 45.59375 39.703125 44.796875 43.046875 
+Q 44 46.40625 41.796875 48.046875 
+Q 39.59375 49.703125 35.203125 49.703125 
+Q 31.59375 49.703125 27.5 47.890625 
+Q 23.40625 46.09375 20.296875 43.703125 
+L 20.296875 5.796875 
+L 27.203125 4.90625 
+L 27.203125 0 
+L 3.90625 0 
+L 3.90625 4.90625 
+L 9.90625 5.703125 
+z
+" id="Merriweather-Regular-104"/>
+    </defs>
+    <use xlink:href="#Merriweather-Regular-97"/>
+    <use x="56.099991" xlink:href="#Merriweather-Regular-108"/>
+    <use x="89.399979" xlink:href="#Merriweather-Regular-105"/>
+    <use x="122.699966" xlink:href="#Merriweather-Regular-103"/>
+    <use x="183.399963" xlink:href="#Merriweather-Regular-110"/>
+    <use x="249.799957" xlink:href="#Merriweather-Regular-101"/>
+    <use x="304.199951" xlink:href="#Merriweather-Regular-100"/>
+    <use x="366.299942" xlink:href="#Merriweather-Regular-32"/>
+    <use x="389.999939" xlink:href="#Merriweather-Regular-119"/>
+    <use x="473.899933" xlink:href="#Merriweather-Regular-105"/>
+    <use x="507.199921" xlink:href="#Merriweather-Regular-116"/>
+    <use x="547.899918" xlink:href="#Merriweather-Regular-104"/>
+   </g>
+   <!-- smaller fonts -->
+   <g transform="translate(108 84)scale(0.1 -0.1)">
+    <defs>
+     <path d="M 4.40625 4.90625 
+L 10.5 5.796875 
+L 10.5 47.796875 
+L 3.296875 49.59375 
+L 3.296875 55 
+L 17.59375 56.796875 
+L 19.40625 55.5 
+L 20 51.5 
+L 19.90625 48.296875 
+Q 23.40625 51.5 29.453125 54.140625 
+Q 35.5 56.796875 40.296875 56.796875 
+Q 45.703125 56.796875 49 55 
+Q 52.296875 53.203125 54 49.40625 
+Q 57.203125 52.09375 62.953125 54.4375 
+Q 68.703125 56.796875 73.703125 56.796875 
+Q 79.90625 56.796875 83.40625 54.4375 
+Q 86.90625 52.09375 88.34375 47.140625 
+Q 89.796875 42.203125 89.796875 33.90625 
+L 89.796875 5.796875 
+L 97 4.90625 
+L 97 0 
+L 73.203125 0 
+L 73.203125 4.90625 
+L 79.40625 5.796875 
+L 79.40625 33.59375 
+Q 79.40625 39.40625 78.546875 42.84375 
+Q 77.703125 46.296875 75.34375 48 
+Q 73 49.703125 68.59375 49.703125 
+Q 65.296875 49.703125 61.59375 48.25 
+Q 57.90625 46.796875 55.296875 44.796875 
+Q 56.203125 40.90625 56.203125 33.703125 
+L 56.203125 5.796875 
+L 63.296875 4.90625 
+L 63.296875 0 
+L 39.09375 0 
+L 39.09375 4.90625 
+L 45.703125 5.796875 
+L 45.703125 33.796875 
+Q 45.703125 39.796875 44.953125 43.09375 
+Q 44.203125 46.40625 42.09375 48.046875 
+Q 40 49.703125 35.703125 49.703125 
+Q 32.09375 49.703125 28.046875 47.890625 
+Q 24 46.09375 21 43.703125 
+L 21 5.796875 
+L 27.703125 4.90625 
+L 27.703125 0 
+L 4.40625 0 
+z
+" id="Merriweather-Regular-109"/>
+    </defs>
+    <use xlink:href="#Merriweather-Regular-115"/>
+    <use x="50.499985" xlink:href="#Merriweather-Regular-109"/>
+    <use x="149.999969" xlink:href="#Merriweather-Regular-97"/>
+    <use x="206.09996" xlink:href="#Merriweather-Regular-108"/>
+    <use x="239.399948" xlink:href="#Merriweather-Regular-108"/>
+    <use x="272.699936" xlink:href="#Merriweather-Regular-101"/>
+    <use x="327.09993" xlink:href="#Merriweather-Regular-114"/>
+    <use x="372.899918" xlink:href="#Merriweather-Regular-32"/>
+    <use x="396.599915" xlink:href="#Merriweather-Regular-102"/>
+    <use x="436.599899" xlink:href="#Merriweather-Regular-111"/>
+    <use x="497.399887" xlink:href="#Merriweather-Regular-110"/>
+    <use x="563.799881" xlink:href="#Merriweather-Regular-116"/>
+    <use x="604.499878" xlink:href="#Merriweather-Regular-115"/>
+   </g>
+  </g>
+  <g id="text_3">
+   <!-- as long as the line spacing of each font -->
+   <g transform="translate(192 48)scale(0.04 -0.04)">
+    <defs>
+     <path d="M 46 9.40625 
+Q 45.90625 9 45.90625 8.296875 
+Q 45.90625 6.796875 46.453125 6.09375 
+Q 47 5.40625 47.90625 5.40625 
+Q 49.5 5.40625 52.296875 7.90625 
+L 53.703125 5.296875 
+Q 52.59375 3.5 49.546875 1.25 
+Q 46.5 -1 42.703125 -1 
+Q 39.59375 -1 37.796875 0.546875 
+Q 36 2.09375 36.09375 5.40625 
+L 36.5 8.296875 
+Q 33.296875 4.40625 29.046875 1.703125 
+Q 24.796875 -1 19.90625 -1 
+Q 11.796875 -1 7.796875 4.75 
+Q 3.796875 10.5 3.796875 19.90625 
+Q 3.796875 28.5 7.59375 37.046875 
+Q 11.40625 45.59375 18.703125 51.1875 
+Q 26 56.796875 35.796875 56.796875 
+Q 38.09375 56.796875 41 56.25 
+Q 43.90625 55.703125 46.296875 55 
+L 52.40625 56.703125 
+L 46 9.40625 
+z
+M 41.09375 49.703125 
+Q 38.5 51.296875 34.703125 51.296875 
+Q 28.296875 51.296875 23.796875 46.59375 
+Q 19.296875 41.90625 17.046875 34.84375 
+Q 14.796875 27.796875 14.796875 20.703125 
+Q 14.796875 13.5 16.9375 9.546875 
+Q 19.09375 5.59375 23.296875 5.59375 
+Q 26.796875 5.59375 30.34375 8.25 
+Q 33.90625 10.90625 36.40625 14.296875 
+L 41.09375 49.703125 
+z
+" id="Merriweather-Italic-97"/>
+     <path d="M 37.90625 47 
+Q 37 48.203125 33.953125 49.59375 
+Q 30.90625 51 27 51 
+Q 22.5 51 19.796875 49.046875 
+Q 17.09375 47.09375 17.09375 43.40625 
+Q 17.09375 40.203125 19.296875 37.546875 
+Q 21.5 34.90625 25.796875 31.796875 
+Q 29.296875 29.203125 31.5 27.140625 
+Q 33.703125 25.09375 35.296875 22.046875 
+Q 36.90625 19 36.90625 15.203125 
+Q 36.90625 10 34.09375 6.34375 
+Q 31.296875 2.703125 26.546875 0.84375 
+Q 21.796875 -1 16.203125 -1 
+Q 11.703125 -1 7.203125 0 
+Q 2.703125 1 1.296875 2.203125 
+L 3 9.5 
+Q 5 7.90625 8.703125 6.5 
+Q 12.40625 5.09375 16.40625 5.09375 
+Q 20.59375 5.09375 23.59375 6.890625 
+Q 26.59375 8.703125 26.59375 12.796875 
+Q 26.59375 16.296875 24.1875 18.796875 
+Q 21.796875 21.296875 17.09375 24.59375 
+Q 6.90625 31.703125 6.90625 41 
+Q 6.90625 45.703125 9.546875 49.296875 
+Q 12.203125 52.90625 16.796875 54.84375 
+Q 21.40625 56.796875 27 56.796875 
+Q 30.59375 56.796875 34.34375 56.140625 
+Q 38.09375 55.5 39.59375 54.90625 
+L 37.90625 47 
+z
+" id="Merriweather-Italic-115"/>
+     <path id="Merriweather-Italic-32"/>
+     <path d="M 16.90625 8.90625 
+Q 16.796875 8.5 16.796875 7.796875 
+Q 16.796875 5.40625 18.40625 5.40625 
+Q 20.296875 5.40625 23.5 8.296875 
+L 24.796875 5.703125 
+Q 23.40625 3.5 20.5 1.25 
+Q 17.59375 -1 13.203125 -1 
+Q 10 -1 8.09375 0.5 
+Q 6.203125 2 6.203125 5.203125 
+Q 6.203125 5.796875 6.34375 7 
+Q 6.5 8.203125 6.59375 8.703125 
+L 15.59375 73.40625 
+L 9.40625 75.203125 
+L 10.296875 78.796875 
+L 24.5 80.59375 
+L 26.59375 79.296875 
+L 16.90625 8.90625 
+z
+" id="Merriweather-Italic-108"/>
+     <path d="M 33 56.796875 
+Q 42.90625 56.796875 48.203125 50.796875 
+Q 53.5 44.796875 53.5 33.703125 
+Q 53.5 24.59375 49.84375 16.59375 
+Q 46.203125 8.59375 39.546875 3.75 
+Q 32.90625 -1.09375 24.5 -1.09375 
+Q 14.59375 -1.09375 9.296875 4.90625 
+Q 4 10.90625 4 22 
+Q 4 31.203125 7.640625 39.203125 
+Q 11.296875 47.203125 17.9375 52 
+Q 24.59375 56.796875 33 56.796875 
+z
+M 31.59375 51.296875 
+Q 26.40625 51.296875 22.703125 46.9375 
+Q 19 42.59375 17.140625 35.9375 
+Q 15.296875 29.296875 15.296875 22.40625 
+Q 15.296875 4.203125 26.203125 4.203125 
+Q 31.296875 4.203125 34.890625 8.59375 
+Q 38.5 13 40.296875 19.703125 
+Q 42.09375 26.40625 42.09375 33.296875 
+Q 42.09375 51.296875 31.59375 51.296875 
+z
+" id="Merriweather-Italic-111"/>
+     <path d="M 21.90625 43.90625 
+Q 26 49.59375 31.390625 53.1875 
+Q 36.796875 56.796875 42.5 56.796875 
+Q 48.203125 56.796875 51.25 53.390625 
+Q 54.296875 50 54.296875 42.296875 
+Q 54.296875 38.59375 52.40625 28.296875 
+L 51.796875 24.703125 
+L 51.296875 21.796875 
+Q 49.5 13.09375 49.40625 8.59375 
+L 49.40625 8 
+Q 49.40625 5.40625 50.703125 5.40625 
+Q 52.703125 5.40625 55.40625 7.796875 
+L 56.703125 5.09375 
+Q 55.5 3.40625 52.296875 1.203125 
+Q 49.09375 -1 45 -1 
+Q 38.296875 -1 38.296875 5.296875 
+Q 38.296875 8.40625 40.203125 18.296875 
+L 40.90625 22 
+L 41.296875 24.40625 
+Q 43.5 36.09375 43.5 41.296875 
+Q 43.40625 45.90625 42.09375 47.59375 
+Q 40.796875 49.296875 37.59375 49.296875 
+Q 33.796875 49.296875 29.046875 45.4375 
+Q 24.296875 41.59375 20.90625 36 
+L 16.09375 0 
+L 5.796875 0 
+L 12.203125 48.203125 
+L 7.203125 50.703125 
+L 8 54.5 
+L 21 56.796875 
+L 23.09375 55.703125 
+L 21.90625 43.90625 
+z
+" id="Merriweather-Italic-110"/>
+     <path d="M 44.296875 -3.796875 
+Q 43.296875 -11.296875 39 -16.046875 
+Q 34.703125 -20.796875 28.84375 -22.890625 
+Q 23 -25 17 -25 
+Q 13.90625 -25 10.453125 -24.390625 
+Q 7 -23.796875 5.40625 -23.09375 
+L 7.5 -14.703125 
+Q 9.703125 -15.90625 13.296875 -17.046875 
+Q 16.90625 -18.203125 20.40625 -18.203125 
+Q 26.703125 -18.203125 29.703125 -15.75 
+Q 32.703125 -13.296875 33.59375 -6.703125 
+L 35.40625 6.296875 
+Q 32.59375 3.09375 28.75 1.046875 
+Q 24.90625 -1 20.296875 -1 
+Q 12 -1 7.84375 4.75 
+Q 3.703125 10.5 3.703125 19.90625 
+Q 3.703125 28.5 7.546875 37.046875 
+Q 11.40625 45.59375 18.703125 51.1875 
+Q 26 56.796875 35.796875 56.796875 
+Q 38.5 56.796875 41.546875 56.140625 
+Q 44.59375 55.5 46.796875 54.59375 
+L 53.296875 56.796875 
+L 44.296875 -3.796875 
+z
+M 41.703125 49.40625 
+Q 39.09375 51.296875 34.59375 51.296875 
+Q 28 51.296875 23.5 46.5 
+Q 19 41.703125 16.796875 34.546875 
+Q 14.59375 27.40625 14.59375 20.5 
+Q 14.59375 13.5 16.9375 9.546875 
+Q 19.296875 5.59375 23.5 5.59375 
+Q 27.296875 5.59375 30.796875 7.9375 
+Q 34.296875 10.296875 36.40625 13.296875 
+L 41.703125 49.40625 
+z
+" id="Merriweather-Italic-103"/>
+     <path d="M 18.296875 17.59375 
+Q 17.59375 13 17.59375 10.296875 
+Q 17.59375 7.90625 18.546875 6.90625 
+Q 19.5 5.90625 21.90625 5.90625 
+Q 24 5.90625 26.84375 7.09375 
+Q 29.703125 8.296875 31.296875 9.59375 
+L 32.296875 6.203125 
+Q 30.09375 3.703125 25.390625 1.34375 
+Q 20.703125 -1 15.703125 -1 
+Q 11.59375 -1 9.25 1.046875 
+Q 6.90625 3.09375 6.90625 7.40625 
+Q 6.90625 9.296875 7.59375 15.40625 
+L 12.09375 49.203125 
+L 6.09375 49.203125 
+L 7 53.296875 
+L 13.203125 55.40625 
+Q 15.40625 57.796875 19.5 69.09375 
+L 25.09375 69.09375 
+L 23.40625 55.5 
+L 36.203125 55.5 
+L 35.40625 49.203125 
+L 22.59375 49.203125 
+L 18.296875 17.59375 
+z
+" id="Merriweather-Italic-116"/>
+     <path d="M 21.09375 43.296875 
+Q 25.09375 49.203125 30.640625 53 
+Q 36.203125 56.796875 42 56.796875 
+Q 47.703125 56.796875 50.75 53.390625 
+Q 53.796875 50 53.796875 42.203125 
+Q 53.796875 38.59375 52.59375 32.140625 
+Q 51.40625 25.703125 51.203125 24.703125 
+Q 51 23.09375 50.75 21.84375 
+Q 50.5 20.59375 50.296875 19.703125 
+Q 49.796875 16.59375 49.296875 13.390625 
+Q 48.796875 10.203125 48.796875 8.203125 
+Q 48.796875 5.296875 50.296875 5.296875 
+Q 51.40625 5.296875 52.453125 5.890625 
+Q 53.5 6.5 55.296875 8.09375 
+L 56.59375 5.40625 
+Q 55.203125 3.40625 52.046875 1.203125 
+Q 48.90625 -1 44.703125 -1 
+Q 40.90625 -1 39.296875 0.59375 
+Q 37.703125 2.203125 37.703125 5.296875 
+Q 37.703125 8.203125 39.296875 16.59375 
+L 40.296875 22 
+L 40.703125 24.40625 
+Q 42.90625 36.09375 42.90625 41.296875 
+Q 42.796875 45.90625 41.5 47.59375 
+Q 40.203125 49.296875 37.203125 49.296875 
+Q 33.203125 49.296875 28.34375 45.296875 
+Q 23.5 41.296875 20.09375 35.59375 
+L 15.5 0 
+L 5.09375 0 
+L 14.5 73.40625 
+L 8.703125 75.203125 
+L 9.40625 78.796875 
+L 23.59375 80.59375 
+L 25.796875 79.296875 
+L 21.09375 43.296875 
+z
+" id="Merriweather-Italic-104"/>
+     <path d="M 45.203125 9.59375 
+Q 42.59375 5.703125 36.84375 2.296875 
+Q 31.09375 -1.09375 24 -1.09375 
+Q 17.203125 -1.09375 12.703125 1.953125 
+Q 8.203125 5 6.09375 9.953125 
+Q 4 14.90625 4 20.59375 
+Q 4 30.296875 7.890625 38.640625 
+Q 11.796875 47 18.59375 51.890625 
+Q 25.40625 56.796875 33.59375 56.796875 
+Q 40.796875 56.796875 44.4375 53.390625 
+Q 48.09375 50 48.09375 44.40625 
+Q 48.09375 37.203125 42.5 32.34375 
+Q 36.90625 27.5 29.203125 25.09375 
+Q 21.5 22.703125 15.296875 22.59375 
+Q 14.90625 15.5 17.65625 10.5 
+Q 20.40625 5.5 26.40625 5.5 
+Q 30.90625 5.5 35.15625 7.640625 
+Q 39.40625 9.796875 42.90625 13.5 
+L 45.203125 9.59375 
+z
+M 31.203125 51.40625 
+Q 26.703125 51.40625 23.25 47.703125 
+Q 19.796875 44 17.796875 38.453125 
+Q 15.796875 32.90625 15.40625 27.5 
+Q 20.203125 27.703125 25.453125 29.640625 
+Q 30.703125 31.59375 34.203125 35.25 
+Q 37.703125 38.90625 37.703125 43.59375 
+Q 37.703125 47.40625 36 49.40625 
+Q 34.296875 51.40625 31.203125 51.40625 
+z
+" id="Merriweather-Italic-101"/>
+     <path d="M 18.09375 7.90625 
+Q 18.09375 6.703125 18.546875 6.046875 
+Q 19 5.40625 19.703125 5.40625 
+Q 20.796875 5.40625 21.9375 6.046875 
+Q 23.09375 6.703125 24.796875 8.296875 
+L 26.09375 5.703125 
+Q 24.59375 3.59375 21.5 1.296875 
+Q 18.40625 -1 14.203125 -1 
+Q 10.703125 -1 8.84375 0.59375 
+Q 7 2.203125 7.296875 5.296875 
+Q 7.796875 9.703125 9.90625 24.203125 
+Q 12.703125 43.59375 13.296875 48.5 
+L 7.09375 50.90625 
+L 7.796875 54.40625 
+L 22.59375 56.703125 
+L 24.90625 55.59375 
+L 18.203125 8.90625 
+z
+M 20.90625 67.296875 
+Q 18.59375 67.296875 16.9375 69 
+Q 15.296875 70.703125 15.296875 73.09375 
+Q 15.296875 76.203125 17.4375 78.390625 
+Q 19.59375 80.59375 22.5 80.59375 
+Q 25.203125 80.59375 26.703125 78.9375 
+Q 28.203125 77.296875 28.203125 74.90625 
+Q 28.09375 71.703125 26.09375 69.5 
+Q 24.09375 67.296875 20.90625 67.296875 
+z
+" id="Merriweather-Italic-105"/>
+     <path d="M 21.796875 49 
+Q 24.40625 52.296875 28.34375 54.546875 
+Q 32.296875 56.796875 37 56.796875 
+Q 45.296875 56.796875 49.546875 51.09375 
+Q 53.796875 45.40625 53.796875 35.59375 
+Q 53.796875 26.796875 49.890625 18.296875 
+Q 46 9.796875 38.75 4.390625 
+Q 31.5 -1 22.09375 -1 
+Q 20.296875 -1 15.09375 -0.09375 
+L 11.59375 -25.40625 
+L 1.5 -25.40625 
+L 11.59375 48.703125 
+L 6.296875 51 
+L 7 54.5 
+L 20.5 56.796875 
+L 22.59375 55.703125 
+L 21.796875 49 
+z
+M 16 6.296875 
+Q 18.796875 4.5 23.296875 4.5 
+Q 29.5 4.5 33.890625 9.140625 
+Q 38.296875 13.796875 40.5 20.890625 
+Q 42.703125 28 42.703125 35.296875 
+Q 42.703125 42.203125 40.34375 46.140625 
+Q 38 50.09375 33.796875 50.09375 
+Q 29.90625 50.09375 26.5 47.6875 
+Q 23.09375 45.296875 21 42.09375 
+L 16 6.296875 
+z
+" id="Merriweather-Italic-112"/>
+     <path d="M 39.59375 44.59375 
+Q 33.90625 50.296875 30.59375 50.296875 
+Q 26 50.296875 22.296875 46.796875 
+Q 18.59375 43.296875 16.5 37.09375 
+Q 14.40625 30.90625 14.40625 22.90625 
+Q 14.40625 5.90625 25 5.90625 
+Q 29.203125 5.90625 32.203125 7.40625 
+Q 35.203125 8.90625 38.59375 12 
+L 40.703125 8.203125 
+Q 38.203125 4.796875 33.203125 1.890625 
+Q 28.203125 -1 21.5 -1 
+Q 13 -1 8.203125 4.953125 
+Q 3.40625 10.90625 3.40625 21.59375 
+Q 3.40625 29.796875 6.84375 37.9375 
+Q 10.296875 46.09375 17.046875 51.4375 
+Q 23.796875 56.796875 33 56.796875 
+Q 35.90625 56.796875 39.09375 56.1875 
+Q 42.296875 55.59375 44.40625 54.59375 
+L 41.59375 44.09375 
+L 39.59375 44.59375 
+z
+" id="Merriweather-Italic-99"/>
+     <path d="M 14.90625 60.59375 
+Q 15.796875 66.40625 18.796875 71.15625 
+Q 21.796875 75.90625 26.1875 78.703125 
+Q 30.59375 81.5 35.703125 81.5 
+Q 40.703125 81.5 43.796875 80.296875 
+L 41.203125 72.90625 
+Q 38.09375 75.203125 34.296875 75.09375 
+Q 26.90625 75.09375 25.203125 62.40625 
+L 24.40625 56.09375 
+L 36.203125 56.09375 
+L 35.296875 49.5 
+L 23.5 49.5 
+L 17.203125 0.296875 
+Q 15.796875 -10.90625 10.6875 -18 
+Q 5.59375 -25.09375 -2.59375 -25.203125 
+Q -5 -25.203125 -7.453125 -24.953125 
+Q -9.90625 -24.703125 -11.09375 -24.40625 
+L -8.703125 -16.796875 
+Q -7.90625 -17.203125 -5.25 -17.953125 
+Q -2.59375 -18.703125 -0.90625 -18.703125 
+Q 2 -18.703125 3.59375 -15.703125 
+Q 5.203125 -12.703125 6 -6.90625 
+L 13.09375 49.5 
+L 6.5 49.5 
+L 7.296875 53.203125 
+L 14.203125 55.90625 
+L 14.90625 60.59375 
+z
+" id="Merriweather-Italic-102"/>
+    </defs>
+    <use xlink:href="#Merriweather-Italic-97"/>
+    <use x="57.999985" xlink:href="#Merriweather-Italic-115"/>
+    <use x="100.599976" xlink:href="#Merriweather-Italic-32"/>
+    <use x="124.299973" xlink:href="#Merriweather-Italic-108"/>
+    <use x="154.399963" xlink:href="#Merriweather-Italic-111"/>
+    <use x="211.799957" xlink:href="#Merriweather-Italic-110"/>
+    <use x="273.999954" xlink:href="#Merriweather-Italic-103"/>
+    <use x="331.299942" xlink:href="#Merriweather-Italic-32"/>
+    <use x="354.999939" xlink:href="#Merriweather-Italic-97"/>
+    <use x="412.999924" xlink:href="#Merriweather-Italic-115"/>
+    <use x="455.599915" xlink:href="#Merriweather-Italic-32"/>
+    <use x="479.299911" xlink:href="#Merriweather-Italic-116"/>
+    <use x="514.899902" xlink:href="#Merriweather-Italic-104"/>
+    <use x="576.399887" xlink:href="#Merriweather-Italic-101"/>
+    <use x="628.199875" xlink:href="#Merriweather-Italic-32"/>
+    <use x="651.899872" xlink:href="#Merriweather-Italic-108"/>
+    <use x="681.999863" xlink:href="#Merriweather-Italic-105"/>
+    <use x="713.599854" xlink:href="#Merriweather-Italic-110"/>
+    <use x="775.79985" xlink:href="#Merriweather-Italic-101"/>
+    <use x="827.599838" xlink:href="#Merriweather-Italic-32"/>
+    <use x="851.299835" xlink:href="#Merriweather-Italic-115"/>
+    <use x="893.899826" xlink:href="#Merriweather-Italic-112"/>
+    <use x="951.499817" xlink:href="#Merriweather-Italic-97"/>
+    <use x="1009.499802" xlink:href="#Merriweather-Italic-99"/>
+    <use x="1054.199799" xlink:href="#Merriweather-Italic-105"/>
+    <use x="1085.799789" xlink:href="#Merriweather-Italic-110"/>
+    <use x="1147.999786" xlink:href="#Merriweather-Italic-103"/>
+    <use x="1205.299774" xlink:href="#Merriweather-Italic-32"/>
+    <use x="1228.999771" xlink:href="#Merriweather-Italic-111"/>
+    <use x="1286.399765" xlink:href="#Merriweather-Italic-102"/>
+    <use x="1320.39975" xlink:href="#Merriweather-Italic-32"/>
+    <use x="1344.099747" xlink:href="#Merriweather-Italic-101"/>
+    <use x="1395.899734" xlink:href="#Merriweather-Italic-97"/>
+    <use x="1453.899719" xlink:href="#Merriweather-Italic-99"/>
+    <use x="1498.599716" xlink:href="#Merriweather-Italic-104"/>
+    <use x="1560.099701" xlink:href="#Merriweather-Italic-32"/>
+    <use x="1583.799698" xlink:href="#Merriweather-Italic-102"/>
+    <use x="1617.799683" xlink:href="#Merriweather-Italic-111"/>
+    <use x="1675.199677" xlink:href="#Merriweather-Italic-110"/>
+    <use x="1737.399673" xlink:href="#Merriweather-Italic-116"/>
+   </g>
+   <!-- is a multiple of the smallest line -->
+   <g transform="translate(192 54)scale(0.04 -0.04)">
+    <defs>
+     <path d="M 21.90625 43.90625 
+Q 25.90625 49.5 31.296875 53.140625 
+Q 36.703125 56.796875 42.296875 56.796875 
+Q 47.703125 56.796875 50.640625 53.796875 
+Q 53.59375 50.796875 54 44.203125 
+Q 57.703125 49.90625 62.84375 53.34375 
+Q 68 56.796875 73.59375 56.796875 
+Q 79.09375 56.796875 82.296875 53.296875 
+Q 85.5 49.796875 85.5 42.203125 
+Q 85.5 38.40625 83.703125 28.40625 
+L 83.09375 24.703125 
+Q 82.59375 21.90625 82.40625 20.90625 
+Q 81.796875 17.5 81.25 13.890625 
+Q 80.703125 10.296875 80.703125 8.09375 
+Q 80.703125 5.40625 82.09375 5.40625 
+Q 83.09375 5.40625 84.296875 6.046875 
+Q 85.5 6.703125 87.296875 8.296875 
+L 88.5 5.703125 
+Q 87.203125 3.703125 84 1.34375 
+Q 80.796875 -1 76.5 -1 
+Q 72.796875 -1 71.296875 0.703125 
+Q 69.796875 2.40625 69.796875 5.59375 
+Q 69.90625 8.796875 71.5 17.796875 
+L 72.203125 22.203125 
+Q 72.296875 23 72.703125 24.796875 
+Q 72.90625 25.796875 73.75 31.09375 
+Q 74.59375 36.40625 74.59375 40.796875 
+Q 74.59375 45.703125 73.296875 47.5 
+Q 72 49.296875 69 49.296875 
+Q 65.59375 49.296875 61.34375 45.9375 
+Q 57.09375 42.59375 53.796875 37.40625 
+Q 53.5 32.796875 52.40625 24.703125 
+L 49.09375 0 
+L 38.5 0 
+L 41.5 22 
+Q 43.5 34.40625 43.5 41.203125 
+Q 43.40625 46 42.15625 47.640625 
+Q 40.90625 49.296875 37.5 49.296875 
+Q 33.796875 49.296875 29.046875 45.5 
+Q 24.296875 41.703125 21 36.296875 
+L 16 0 
+L 5.703125 0 
+L 12.203125 48.203125 
+L 7.203125 50.703125 
+L 8 54.5 
+L 20.90625 56.796875 
+L 23 55.703125 
+L 21.90625 43.90625 
+z
+" id="Merriweather-Italic-109"/>
+     <path d="M 18.796875 24.703125 
+Q 17.796875 16.5 17.796875 13.703125 
+Q 17.796875 9 19.390625 7.203125 
+Q 21 5.40625 24.296875 5.40625 
+Q 27.90625 5.40625 31.703125 7.953125 
+Q 35.5 10.5 38.203125 14.09375 
+L 43.796875 56.296875 
+L 54.203125 56.296875 
+L 47.796875 9 
+L 47.703125 7.90625 
+Q 47.703125 6.703125 48.140625 6.046875 
+Q 48.59375 5.40625 49.296875 5.40625 
+Q 51.296875 5.40625 54.40625 8.40625 
+L 55.703125 5.703125 
+Q 54.5 3.796875 51.203125 1.4375 
+Q 47.90625 -0.90625 43.90625 -0.90625 
+Q 40.796875 -0.90625 39.1875 0.6875 
+Q 37.59375 2.296875 37.796875 5.203125 
+Q 37.796875 5 38.09375 8.59375 
+L 38 8.703125 
+Q 30 -1 20 -1 
+Q 14.296875 -1 10.796875 2.046875 
+Q 7.296875 5.09375 7.203125 12.09375 
+Q 7.203125 16.796875 9.09375 29.5 
+L 11.703125 48.09375 
+L 6.40625 51 
+L 7.09375 54.796875 
+L 20.703125 56.703125 
+L 22.796875 55.59375 
+L 19.40625 29.09375 
+z
+" id="Merriweather-Italic-117"/>
+    </defs>
+    <use xlink:href="#Merriweather-Italic-105"/>
+    <use x="31.599991" xlink:href="#Merriweather-Italic-115"/>
+    <use x="74.199982" xlink:href="#Merriweather-Italic-32"/>
+    <use x="97.899979" xlink:href="#Merriweather-Italic-97"/>
+    <use x="155.899963" xlink:href="#Merriweather-Italic-32"/>
+    <use x="179.59996" xlink:href="#Merriweather-Italic-109"/>
+    <use x="273.199951" xlink:href="#Merriweather-Italic-117"/>
+    <use x="333.299942" xlink:href="#Merriweather-Italic-108"/>
+    <use x="363.399933" xlink:href="#Merriweather-Italic-116"/>
+    <use x="398.999924" xlink:href="#Merriweather-Italic-105"/>
+    <use x="430.599915" xlink:href="#Merriweather-Italic-112"/>
+    <use x="488.199905" xlink:href="#Merriweather-Italic-108"/>
+    <use x="518.299896" xlink:href="#Merriweather-Italic-101"/>
+    <use x="570.099884" xlink:href="#Merriweather-Italic-32"/>
+    <use x="593.799881" xlink:href="#Merriweather-Italic-111"/>
+    <use x="651.199875" xlink:href="#Merriweather-Italic-102"/>
+    <use x="685.19986" xlink:href="#Merriweather-Italic-32"/>
+    <use x="708.899857" xlink:href="#Merriweather-Italic-116"/>
+    <use x="744.499847" xlink:href="#Merriweather-Italic-104"/>
+    <use x="805.999832" xlink:href="#Merriweather-Italic-101"/>
+    <use x="857.79982" xlink:href="#Merriweather-Italic-32"/>
+    <use x="881.499817" xlink:href="#Merriweather-Italic-115"/>
+    <use x="924.099808" xlink:href="#Merriweather-Italic-109"/>
+    <use x="1017.699799" xlink:href="#Merriweather-Italic-97"/>
+    <use x="1075.699783" xlink:href="#Merriweather-Italic-108"/>
+    <use x="1105.799774" xlink:href="#Merriweather-Italic-108"/>
+    <use x="1135.899765" xlink:href="#Merriweather-Italic-101"/>
+    <use x="1187.699753" xlink:href="#Merriweather-Italic-115"/>
+    <use x="1230.299744" xlink:href="#Merriweather-Italic-116"/>
+    <use x="1265.899734" xlink:href="#Merriweather-Italic-32"/>
+    <use x="1289.599731" xlink:href="#Merriweather-Italic-108"/>
+    <use x="1319.699722" xlink:href="#Merriweather-Italic-105"/>
+    <use x="1351.299713" xlink:href="#Merriweather-Italic-110"/>
+    <use x="1413.49971" xlink:href="#Merriweather-Italic-101"/>
+   </g>
+   <!-- spacing. Here, the line spacing is 6, 12 -->
+   <g transform="translate(192 60)scale(0.04 -0.04)">
+    <defs>
+     <path d="M 2.59375 4.703125 
+Q 2.59375 8.203125 4.6875 10.5 
+Q 6.796875 12.796875 9.703125 12.796875 
+Q 12.5 12.796875 13.953125 11.140625 
+Q 15.40625 9.5 15.40625 7 
+Q 15.40625 3.40625 13.09375 1.203125 
+Q 10.796875 -1 7.796875 -1 
+Q 5.59375 -1 4.09375 0.546875 
+Q 2.59375 2.09375 2.59375 4.703125 
+z
+" id="Merriweather-Italic-46"/>
+     <path d="M 35.59375 74.296875 
+L 35.09375 69.90625 
+L 27.296875 68.796875 
+L 23.703125 40.796875 
+L 56 40.796875 
+L 59.5 68.796875 
+L 51.796875 69.90625 
+L 52.296875 74.296875 
+L 78.09375 74.296875 
+L 77.5 69.90625 
+L 70.40625 68.796875 
+L 62.40625 5.296875 
+L 70 4.09375 
+L 69.59375 0 
+L 42.703125 0 
+L 43.09375 4.09375 
+L 51.5 5.296875 
+L 55.296875 35 
+L 22.90625 35 
+L 19.09375 5.296875 
+L 27 4.09375 
+L 26.703125 0 
+L 0.703125 0 
+L 1.09375 4.09375 
+L 8.203125 5.296875 
+L 16.296875 68.796875 
+L 9.59375 69.90625 
+L 10.09375 74.296875 
+z
+" id="Merriweather-Italic-72"/>
+     <path d="M 21.09375 42.59375 
+Q 22.296875 45.90625 24.9375 49.15625 
+Q 27.59375 52.40625 31.296875 54.546875 
+Q 35 56.703125 39.09375 56.703125 
+Q 41.5 56.703125 42.296875 56 
+L 40 44.5 
+Q 38.5 45.59375 35.09375 45.59375 
+Q 31 45.59375 26.953125 43.046875 
+Q 22.90625 40.5 20.796875 35.90625 
+L 16.09375 0 
+L 5.796875 0 
+L 12.09375 48.09375 
+L 7 50.59375 
+L 7.796875 54.40625 
+L 20.09375 56.703125 
+L 22.203125 55.5 
+L 21.5 46.5 
+L 21.09375 42.59375 
+z
+" id="Merriweather-Italic-114"/>
+     <path d="M 11.09375 13.40625 
+Q 15.703125 11.90625 17.890625 7.90625 
+Q 20.09375 3.90625 20.09375 -0.90625 
+Q 20.09375 -8.90625 15.046875 -15.34375 
+Q 10 -21.796875 2.203125 -24.796875 
+L -0.40625 -21.296875 
+L -0.296875 -20.40625 
+Q 4 -18.296875 7.140625 -13.75 
+Q 10.296875 -9.203125 10.296875 -3.703125 
+Q 10.296875 -0.203125 8.6875 2.390625 
+Q 7.09375 5 4.90625 5.5 
+L 5 7.703125 
+z
+" id="Merriweather-Italic-44"/>
+     <path d="M 27.5 -1 
+Q 20.90625 -1 15.953125 2.203125 
+Q 11 5.40625 8.390625 10.953125 
+Q 5.796875 16.5 5.796875 23.40625 
+Q 5.796875 35.296875 11.296875 46.34375 
+Q 16.796875 57.40625 26.5 65.453125 
+Q 36.203125 73.5 48.203125 76.703125 
+L 49.90625 72.203125 
+Q 42.90625 69.796875 36.546875 64.84375 
+Q 30.203125 59.90625 25.59375 53.546875 
+Q 21 47.203125 18.90625 40.703125 
+Q 21.59375 43.796875 25.890625 45.890625 
+Q 30.203125 48 36.09375 48 
+Q 44.90625 48 49.65625 42.75 
+Q 54.40625 37.5 54.40625 29.296875 
+Q 54.40625 21.5 50.953125 14.5 
+Q 47.5 7.5 41.34375 3.25 
+Q 35.203125 -1 27.5 -1 
+z
+M 28.5 4.203125 
+Q 33.5 4.203125 36.953125 7.703125 
+Q 40.40625 11.203125 42.09375 16.453125 
+Q 43.796875 21.703125 43.796875 27 
+Q 43.796875 34.09375 40.890625 37.890625 
+Q 38 41.703125 33 41.703125 
+Q 27.296875 41.703125 23.75 39.296875 
+Q 20.203125 36.90625 17.796875 33.703125 
+Q 16.40625 27.203125 16.40625 21.203125 
+Q 16.40625 13.203125 19.34375 8.703125 
+Q 22.296875 4.203125 28.5 4.203125 
+z
+" id="Merriweather-Italic-54"/>
+     <path d="M 15.796875 5.203125 
+L 21.703125 45.796875 
+Q 13 43.203125 8.296875 42.296875 
+L 7.59375 46.90625 
+Q 12.40625 47.90625 18.40625 50.796875 
+Q 24.40625 53.703125 28.796875 56.703125 
+L 33.796875 55.5 
+L 26.59375 5.296875 
+L 37.796875 4.09375 
+L 37.40625 0 
+L 4.796875 0 
+L 5.203125 4.09375 
+z
+" id="Merriweather-Italic-49"/>
+     <path d="M 2.203125 4 
+Q 11.796875 8.90625 20.140625 15.703125 
+Q 28.5 22.5 33.5 30 
+Q 38.5 37.5 38.5 44.09375 
+Q 38.5 49.5 35.34375 53.046875 
+Q 32.203125 56.59375 26.703125 56.59375 
+Q 21.703125 56.59375 17.09375 54.296875 
+Q 12.5 52 9.203125 49.09375 
+L 6.59375 53.59375 
+Q 10 57.203125 16.296875 60.296875 
+Q 22.59375 63.40625 30.296875 63.40625 
+Q 37.203125 63.40625 41.546875 60.453125 
+Q 45.90625 57.5 47.796875 53.140625 
+Q 49.703125 48.796875 49.703125 44.40625 
+Q 49.703125 37.796875 44.390625 30.390625 
+Q 39.09375 23 30.84375 16.390625 
+Q 22.59375 9.796875 13.90625 5.5 
+L 43.59375 7.5 
+L 48.5 16.5 
+L 53.59375 14.796875 
+L 49.40625 0 
+L 3.203125 0 
+L 2.203125 4 
+z
+" id="Merriweather-Italic-50"/>
+    </defs>
+    <use xlink:href="#Merriweather-Italic-115"/>
+    <use x="42.599991" xlink:href="#Merriweather-Italic-112"/>
+    <use x="100.199982" xlink:href="#Merriweather-Italic-97"/>
+    <use x="158.199966" xlink:href="#Merriweather-Italic-99"/>
+    <use x="202.899963" xlink:href="#Merriweather-Italic-105"/>
+    <use x="234.499954" xlink:href="#Merriweather-Italic-110"/>
+    <use x="296.699951" xlink:href="#Merriweather-Italic-103"/>
+    <use x="353.999939" xlink:href="#Merriweather-Italic-46"/>
+    <use x="378.09993" xlink:href="#Merriweather-Italic-32"/>
+    <use x="401.799927" xlink:href="#Merriweather-Italic-72"/>
+    <use x="478.299911" xlink:href="#Merriweather-Italic-101"/>
+    <use x="530.099899" xlink:href="#Merriweather-Italic-114"/>
+    <use x="571.19989" xlink:href="#Merriweather-Italic-101"/>
+    <use x="622.999878" xlink:href="#Merriweather-Italic-44"/>
+    <use x="650.499863" xlink:href="#Merriweather-Italic-32"/>
+    <use x="674.19986" xlink:href="#Merriweather-Italic-116"/>
+    <use x="709.79985" xlink:href="#Merriweather-Italic-104"/>
+    <use x="771.299835" xlink:href="#Merriweather-Italic-101"/>
+    <use x="823.099823" xlink:href="#Merriweather-Italic-32"/>
+    <use x="846.79982" xlink:href="#Merriweather-Italic-108"/>
+    <use x="876.899811" xlink:href="#Merriweather-Italic-105"/>
+    <use x="908.499802" xlink:href="#Merriweather-Italic-110"/>
+    <use x="970.699799" xlink:href="#Merriweather-Italic-101"/>
+    <use x="1022.499786" xlink:href="#Merriweather-Italic-32"/>
+    <use x="1046.199783" xlink:href="#Merriweather-Italic-115"/>
+    <use x="1088.799774" xlink:href="#Merriweather-Italic-112"/>
+    <use x="1146.399765" xlink:href="#Merriweather-Italic-97"/>
+    <use x="1204.39975" xlink:href="#Merriweather-Italic-99"/>
+    <use x="1249.099747" xlink:href="#Merriweather-Italic-105"/>
+    <use x="1280.699738" xlink:href="#Merriweather-Italic-110"/>
+    <use x="1342.899734" xlink:href="#Merriweather-Italic-103"/>
+    <use x="1400.199722" xlink:href="#Merriweather-Italic-32"/>
+    <use x="1423.899719" xlink:href="#Merriweather-Italic-105"/>
+    <use x="1455.49971" xlink:href="#Merriweather-Italic-115"/>
+    <use x="1498.099701" xlink:href="#Merriweather-Italic-32"/>
+    <use x="1521.799698" xlink:href="#Merriweather-Italic-54"/>
+    <use x="1582.099686" xlink:href="#Merriweather-Italic-44"/>
+    <use x="1609.59967" xlink:href="#Merriweather-Italic-32"/>
+    <use x="1633.299667" xlink:href="#Merriweather-Italic-49"/>
+    <use x="1678.399658" xlink:href="#Merriweather-Italic-50"/>
+   </g>
+   <!-- and 24. -->
+   <g transform="translate(192 66)scale(0.04 -0.04)">
+    <defs>
+     <path d="M 46.5 9 
+Q 46.40625 8.5 46.40625 7.796875 
+Q 46.40625 5.40625 47.90625 5.40625 
+Q 49.5 5.40625 52.5 7.796875 
+L 53.90625 5.203125 
+Q 52.296875 3.203125 49.390625 1.09375 
+Q 46.5 -1 42.59375 -1 
+Q 36.5 -1 36.40625 5.5 
+L 36.40625 7.59375 
+Q 33.703125 4 29.5 1.5 
+Q 25.296875 -1 20.09375 -1 
+Q 11.90625 -1 7.796875 4.75 
+Q 3.703125 10.5 3.703125 19.90625 
+Q 3.703125 28.59375 7.453125 37.140625 
+Q 11.203125 45.703125 18.453125 51.25 
+Q 25.703125 56.796875 35.59375 56.796875 
+Q 38.703125 56.796875 42.90625 55.703125 
+L 45.5 73.40625 
+L 38.796875 75.203125 
+L 39.59375 78.796875 
+L 54.5 80.59375 
+L 56.796875 79.296875 
+L 46.5 9 
+z
+M 41.90625 49.296875 
+Q 39 51.296875 34.40625 51.296875 
+Q 27.796875 51.296875 23.34375 46.5 
+Q 18.90625 41.703125 16.75 34.59375 
+Q 14.59375 27.5 14.59375 20.5 
+Q 14.59375 13.5 16.84375 9.546875 
+Q 19.09375 5.59375 23.296875 5.59375 
+Q 27.296875 5.59375 30.890625 8.09375 
+Q 34.5 10.59375 36.5 13.796875 
+L 41.90625 49.296875 
+z
+" id="Merriweather-Italic-100"/>
+     <path d="M 33.796875 0 
+L 2.59375 0 
+L 0.5 3.796875 
+Q 7.40625 12.90625 17.546875 31.40625 
+Q 27.703125 49.90625 34.09375 65.5 
+L 35.796875 65.5 
+L 44.90625 60.90625 
+Q 44.40625 59.90625 43.796875 58.90625 
+Q 43.203125 57.90625 42.703125 56.90625 
+Q 34.203125 41.40625 27.796875 30.5 
+Q 21.40625 19.59375 15.796875 12.40625 
+Q 10.90625 6.40625 9.703125 4.796875 
+L 34.59375 6 
+L 37.09375 25.703125 
+L 47.296875 28.5 
+L 44.703125 6.796875 
+L 56.203125 7.5 
+L 55.203125 0 
+L 43.59375 0 
+L 41.296875 -18.296875 
+L 31.40625 -18.296875 
+z
+" id="Merriweather-Italic-52"/>
+    </defs>
+    <use xlink:href="#Merriweather-Italic-97"/>
+    <use x="57.999985" xlink:href="#Merriweather-Italic-110"/>
+    <use x="120.199982" xlink:href="#Merriweather-Italic-100"/>
+    <use x="178.999969" xlink:href="#Merriweather-Italic-32"/>
+    <use x="202.699966" xlink:href="#Merriweather-Italic-50"/>
+    <use x="261.799957" xlink:href="#Merriweather-Italic-52"/>
+    <use x="323.199951" xlink:href="#Merriweather-Italic-46"/>
+   </g>
+  </g>
+  <g id="text_4">
+   <!-- 20/24 -->
+   <g style="fill:#cc0000;" transform="translate(24 120)scale(0.1 -0.1)">
+    <defs>
+     <path d="M 4.703125 4.203125 
+Q 13.90625 9.40625 21.59375 16.15625 
+Q 29.296875 22.90625 33.84375 30.09375 
+Q 38.40625 37.296875 38.40625 43.703125 
+Q 38.40625 49.203125 35.09375 52.453125 
+Q 31.796875 55.703125 25.703125 55.703125 
+Q 20 55.703125 15.890625 53.453125 
+Q 11.796875 51.203125 8.296875 47.90625 
+L 5.09375 52.40625 
+Q 8.59375 56.5 15.09375 59.84375 
+Q 21.59375 63.203125 29 63.203125 
+Q 36 63.203125 40.796875 60.640625 
+Q 45.59375 58.09375 47.890625 54 
+Q 50.203125 49.90625 50.203125 45 
+Q 50.203125 35.09375 40.703125 24.640625 
+Q 31.203125 14.203125 16.90625 5.90625 
+L 47.90625 8.203125 
+L 51.40625 16.796875 
+L 56.5 15.796875 
+L 53.90625 0 
+L 6.203125 0 
+L 4.703125 4.203125 
+z
+" id="Merriweather-Regular-50"/>
+     <path d="M 31.703125 -0.90625 
+Q 18.90625 -0.90625 12.546875 7.9375 
+Q 6.203125 16.796875 6.203125 30.796875 
+Q 6.203125 40.59375 9.796875 47.9375 
+Q 13.40625 55.296875 19.59375 59.1875 
+Q 25.796875 63.09375 33.203125 63.09375 
+Q 46.203125 63.09375 52.203125 54.75 
+Q 58.203125 46.40625 58.203125 31.90625 
+Q 58.203125 22.203125 54.75 14.75 
+Q 51.296875 7.296875 45.25 3.1875 
+Q 39.203125 -0.90625 31.703125 -0.90625 
+z
+M 32.09375 4.203125 
+Q 47 4.203125 47 30.90625 
+Q 47 43.90625 43.640625 50.90625 
+Q 40.296875 57.90625 32.40625 57.90625 
+Q 24.703125 57.90625 21 51.25 
+Q 17.296875 44.59375 17.296875 32.203125 
+Q 17.296875 19.5 20.84375 11.84375 
+Q 24.40625 4.203125 32.09375 4.203125 
+z
+" id="Merriweather-Regular-48"/>
+     <path d="M 12.203125 -17.703125 
+L 3.59375 -17.703125 
+L 30.90625 78.09375 
+L 39.40625 78.09375 
+z
+" id="Merriweather-Regular-47"/>
+     <path d="M 39.5 0 
+L 6.296875 0 
+L 3.703125 4.5 
+Q 9.59375 15.703125 18.1875 34.140625 
+Q 26.796875 52.59375 33.59375 68 
+L 36.203125 68 
+L 44.203125 63.703125 
+L 17.203125 11.703125 
+L 13.203125 5.59375 
+L 39.5 7 
+L 39.90625 26.5 
+L 48.40625 27.203125 
+L 48.40625 7.5 
+L 62.5 8.203125 
+L 62.5 0 
+L 48.40625 0 
+L 48.40625 -16.09375 
+L 39.5 -16.09375 
+z
+" id="Merriweather-Regular-52"/>
+    </defs>
+    <use xlink:href="#Merriweather-Regular-50"/>
+    <use x="59.799988" xlink:href="#Merriweather-Regular-48"/>
+    <use x="124.099976" xlink:href="#Merriweather-Regular-47"/>
+    <use x="167.199966" xlink:href="#Merriweather-Regular-50"/>
+    <use x="226.999954" xlink:href="#Merriweather-Regular-52"/>
+   </g>
+  </g>
+  <g id="text_5">
+   <!-- 10/12 -->
+   <g style="fill:#cc0000;" transform="translate(108 120)scale(0.1 -0.1)">
+    <defs>
+     <path d="M 18.796875 51.59375 
+Q 16.703125 50.796875 12.203125 49.6875 
+Q 7.703125 48.59375 4.90625 48.203125 
+L 3.90625 53.796875 
+Q 9 54.90625 14.34375 57.5 
+Q 19.703125 60.09375 23.296875 63.203125 
+L 23.40625 63.203125 
+L 29.5 62.203125 
+L 29.5 5.796875 
+L 41.90625 4.90625 
+L 41.90625 0 
+L 5.90625 0 
+L 5.90625 4.90625 
+L 18.796875 5.796875 
+z
+" id="Merriweather-Regular-49"/>
+    </defs>
+    <use xlink:href="#Merriweather-Regular-49"/>
+    <use x="43.999985" xlink:href="#Merriweather-Regular-48"/>
+    <use x="108.299973" xlink:href="#Merriweather-Regular-47"/>
+    <use x="151.399963" xlink:href="#Merriweather-Regular-49"/>
+    <use x="195.399948" xlink:href="#Merriweather-Regular-50"/>
+   </g>
+  </g>
+  <g id="text_6">
+   <!-- 4/6 -->
+   <g style="fill:#cc0000;" transform="translate(192 120)scale(0.1 -0.1)">
+    <defs>
+     <path d="M 33.5 -1.09375 
+Q 25.40625 -1.09375 19.546875 2.953125 
+Q 13.703125 7 10.640625 13.953125 
+Q 7.59375 20.90625 7.59375 29.40625 
+Q 7.59375 42 13.6875 52.640625 
+Q 19.796875 63.296875 29.34375 70.140625 
+Q 38.90625 77 48.90625 78.59375 
+L 51.203125 74.296875 
+Q 39.5 70.59375 31.5 61.9375 
+Q 23.5 53.296875 20.59375 42.296875 
+Q 23.09375 45.203125 27.5 47.25 
+Q 31.90625 49.296875 37.703125 49.296875 
+Q 48.09375 49.296875 53.640625 43.1875 
+Q 59.203125 37.09375 59.203125 26.296875 
+Q 59.203125 19 56.140625 12.75 
+Q 53.09375 6.5 47.25 2.703125 
+Q 41.40625 -1.09375 33.5 -1.09375 
+z
+M 34.703125 43.09375 
+Q 29.296875 43.09375 25.09375 40.640625 
+Q 20.90625 38.203125 19.296875 35.40625 
+Q 19.09375 33 19.09375 31.5 
+Q 18.796875 19.40625 22.296875 11.703125 
+Q 25.796875 4 34.09375 4 
+Q 38.703125 4 41.890625 6.84375 
+Q 45.09375 9.703125 46.640625 14.296875 
+Q 48.203125 18.90625 48.203125 24 
+Q 48.203125 33.90625 44.546875 38.5 
+Q 40.90625 43.09375 34.703125 43.09375 
+z
+" id="Merriweather-Regular-54"/>
+    </defs>
+    <use xlink:href="#Merriweather-Regular-52"/>
+    <use x="64.399994" xlink:href="#Merriweather-Regular-47"/>
+    <use x="107.499985" xlink:href="#Merriweather-Regular-54"/>
+   </g>
+  </g>
+ </g>
+</svg>
